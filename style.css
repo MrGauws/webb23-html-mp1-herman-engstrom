@@ -250,3 +250,9 @@ footer {
   color: #fff;
   padding: 20px;
 }
+
+q {
+  text-align: center;
+  color: rgb(6, 206, 6);  
+  margin-left: 25%;
+}
